@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Notepads" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+    </style>
+
+    <style name="Theme.Notepads" parent="Base.Theme.Notepads"/>
+
+
+    <style name="CustomAlertDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:background">@color/white</item>
+    </style>
+
+
+
+
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">notepads</string>
+    <string name="todo">todo</string>
+    <string name="Yes">Yes</string>
+    <string name="new_note">new note</string>
+    <string name="version">version 1.0</string>
+    <string name="Trash">Trash</string>
+    <string name="change_language">change language</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="done">done</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">save</string>
+    <string name="saved">saved</string>
+    <string name="Description">Description</string>
+    <string name="Title">Title</string>
+    <string name="done2">done</string>
+    <string name="save_note">There was a problem saving the note</string>
+    <string name="title_note">Title cannot be empty</string>
+    <string name="delete_note">Delete note</string>
+    <string name="delete_note_massage">Do you want to move the note to the trash? </string>
+    <string name="no">No</string>
+    <string name="noteـwasـdeleted">The note was deleted</string>
+    <string name="noteـwas_notـdeleted">The note was not deleted </string>
+    <string name="deleteـtheـnoteـforever">Do you want to delete the note forever? </string>
+    <string name="deleteـnoteـforever">The note is permanently deleted</string>
+    <string name="ـdont_deleteـnoteـforever">The note was not permanently deleted</string>
+    <string name="deleteforever">Delete forever</string>
+    <string name="done_note">The note was made</string>
+    <string name="Noteـfailed">Note failed</string>
+    <string name="restore">was returned</string>
+
+
+</resources>

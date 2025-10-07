@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفترچه یادداشت</string>
+    <string name="todo">تودو</string>
+    <string name="version">نسخه 1.0</string>
+    <string name="new_note">یادداشت جدید</string>
+    <string name="Trash">سطل آشغال</string>
+    <string name="delete_note">حذف یادداشت </string>
+    <string name="delete_note_massage">ایا میخواهید یادداشت رو به سطل آشغال منتقل کنید </string>
+    <string name="change_language">تغیر زبان</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="done">انجام شده ها</string>
+    <string name="done_note">یادداشت انجام شد</string>
+    <string name="done2">انجام شد</string>
+    <string name="cancel">منصرف شدن</string>
+    <string name="save"> ذخیره کردن</string>
+    <string name="Description">توضیحات نوشته</string>
+    <string name="Title">عنوان نوشته</string>
+    <string name="saved">ذخیره شد</string>
+    <string name="save_note">ذخیره شدن یاداشت با مشکل مواجه شد</string>
+    <string name="title_note">عنوان نمی تواند خالی باشد </string>
+    <string name="Yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="deleteـtheـnoteـforever">ایا میخوهید برای همیشه یادداشت رو پاک کنید؟ </string>
+    <string name="deleteـnoteـforever">یادداشت برای همیشه پاک شد </string>
+    <string name="deleteforever">پاک کردن برای همیشه</string>
+    <string name="ـdont_deleteـnoteـforever">یادداشت برای همیشه حذف نشد</string>
+    <string name="noteـwasـdeleted">یادداشت حذف شد </string>
+    <string name="noteـwas_notـdeleted">یادداشت حذف نشد </string>
+    <string name="Noteـfailed">یادداشت حذف نشد</string>.
+    <string name="restore">بازگردانده شد</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_note"
+        android:title="@string/new_note"
+        android:icon="@drawable/ic_add"/>
+    <item android:id="@+id/deleted"
+        android:title="@string/Trash"
+        android:icon="@drawable/ic_delete"/>
+
+    <item
+        android:id="@+id/checked"
+        android:title="@string/done"
+        android:icon="@drawable/ic_check"/>
+
+    <item android:id="@+id/change_language"
+        android:title="@string/change_language"
+        android:icon="@drawable/ic_language"/>
+
+
+</menu>
